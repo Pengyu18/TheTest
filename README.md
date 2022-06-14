@@ -12,4 +12,4 @@ GIT的使用
 3. git使用
 - 文件夹中右键Git Bash Here，打开的终端中输入 git help回车，出现指令
 - 自学网站 [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
- 
+- [极客江南](https://www.jianshu.com/u/4312c933b9db)
